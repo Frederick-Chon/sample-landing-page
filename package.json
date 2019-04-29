@@ -1,0 +1,22 @@
+{
+  "name": "sample-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w css/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frederick-Chon/sample-landing-page.git"
+  },
+  "author": "Frederick Chon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frederick-Chon/sample-landing-page/issues"
+  },
+  "homepage": "https://github.com/Frederick-Chon/sample-landing-page#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
